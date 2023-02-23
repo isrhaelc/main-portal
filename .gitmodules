@@ -1,0 +1,8 @@
+[submodule "portalvi"]
+	path = portalvi
+	url = https://github.com/isrhaelc/portalvi.git
+	branch = main
+[submodule "portalvg"]
+	path = portalvg
+	url = https://github.com/isrhaelc/portalvg.git
+	branch = main
